@@ -7,9 +7,7 @@
 
 📫 How to reach me ... melbasuyambu2003@gmail.com
 
-Few of my projects are which i have deployed are-:
-
-InnovITe: https:https://melbasuyambu.github.io/InnovITe/
+Few of my projects which i have deployed are-:
 
 Beyond-the-Battle:https://melbasuyambu.github.io/Beyond-the-Battle/
 
