@@ -9,8 +9,6 @@
 
 Few of my projects which i have deployed are-:
 
-Beyond-the-Battle:https://melbasuyambu.github.io/Beyond-the-Battle/
-
 portfolio website:https://melbasuyambu.github.io/portfolio/
 
 other links:-
