@@ -2,6 +2,7 @@
 ### 🎯 Full Stack Developer | Cloud & AI/ML Enthusiast | Aspiring Software Engineer  
 
 Welcome to my GitHub! I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. I'm currently focusing on Cloud and AI/ML to build scalable and intelligent web applications.
+portjolio website https://melbasportfolio.my.canva.site/
 
 ---
 
