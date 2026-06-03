@@ -1,53 +1,171 @@
-# 👋 Hi, I'm Melba!
-### 🎯 Full Stack Developer | Cloud & AI/ML Enthusiast | Aspiring Software Engineer  
+<h1 align="center">Hi 👋, I'm Melba</h1>
 
-Welcome to my GitHub! I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. I'm currently focusing on Cloud and AI/ML to build scalable and intelligent web applications.
-portjolio website https://melbasportfolio.my.canva.site/
+<h3 align="center">
+IT Professional • AI Enthusiast • Software Developer • Future Technology Consultant
+</h3>
 
----
+<p align="center">
+Building solutions at the intersection of AI, Data, and Interactive Web Experiences.
+</p>
 
-## 🚀 **About Me**
-- 🎓 **B.Tech in Information Technology** – SRM University, Ramapuram (9.24 CGPA)  
-- 💼 **Research Trainee** at NEC India – Drone-Based Cell Tower Inspection & Analytics
-- 🌟 **President** of **FemCodes** – Leading 540+ women in tech, organizing hackathons and workshops
-- 🎯 Currently building projects in **React.js**, **Next.js**, **Node.js**, **Nest.js**, and **PostgreSQL**
-- ☁️ Preparing for **AWS Cloud Practitioner** and diving deep into **AI/ML**
-
----
-
-## 🛠️ **Tech Stack**
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white) ![GoLang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-**Database:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**DevOps & Cloud:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<p align="center">
+🎮 <a href="https://melba-interactive-resume-lpmk.vercel.app/">Play My Interactive 3D Resume</a>
+</p>
 
 ---
 
-## 🏆 **Projects**
-### 🛒 [E-Commerce Website](https://github.com/your-username/e-commerce-website) *(React.js, Node.js, MongoDB)*
-- Developed a full-stack e-commerce platform with user authentication and payment integration.
-- Utilized **Redux** for state management and **MongoDB** for scalable data storage.
-- Implemented secure payment gateways and dynamic product recommendations.
+## 👩‍💻 About Me
 
-### 🌐 [Job Portal Web App](https://github.com/your-username/job-portal-webapp) *(Next.js, Nest.js, PostgreSQL)*
-- Created a job portal platform allowing users to post and apply for jobs.
-- Designed a responsive UI using **Next.js** and managed backend APIs using **Nest.js**.
-- Achieved fast data retrieval and optimized performance with **PostgreSQL** indexing.
+I enjoy taking ambiguous problems and turning them into working solutions. Whether it's building a Generative AI application, designing a data-driven system, or creating immersive 3D web experiences, I love the process of transforming ideas into products people can actually use.
+
+Currently, I'm working with Deloitte in the Technology & Transformation practice, where I contribute to building business-focused digital solutions and prototypes.
 
 ---
 
-## 📫 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melba-suyambu/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MelbaSuyambu)     
+## 🚀 Current Focus
+
+* Generative AI & RAG Applications
+* Full Stack Development
+* Three.js & WebGL
+* Data Analytics & Visualization
+* Technology Consulting
+* System Design Fundamentals
 
 ---
 
-💡 *"Code, Learn, Improve, Repeat."*  
-⭐️ If you like my work, don't forget to **follow** and **star** my repositories!
+## 🛠 Tech Stack
+
+### Languages
+
+Python • C++ • JavaScript • SQL • HTML • CSS
+
+### Frameworks & Libraries
+
+React.js • Node.js • Express.js • Three.js • LangChain • Streamlit • Pandas • NumPy • Scikit-Learn
+
+### Databases & Tools
+
+MongoDB • Firebase • Git • GitHub • Postman • Linux • REST APIs
+
+### Core Computer Science
+
+DSA • OOP • DBMS • Operating Systems • Computer Networks
+
+---
+
+## 🌟 Featured Projects
+
+### 🎮 Interactive 3D Resume
+
+A game-inspired portfolio built using React Three Fiber, Three.js and Blender.
+
+🔗 Live Demo:
+https://melba-interactive-resume-lpmk.vercel.app/
+
+🔗 Repository:
+https://github.com/MelbaSuyambu2003/melba-interactive-resume
+
+Features:
+
+* Interactive 3D world
+* Resume exploration through gameplay
+* Custom 3D assets
+* Progress tracking
+* Immersive user experience
+
+---
+
+### 📚 Multi-Document Q&A System using GenAI
+
+Built a Retrieval-Augmented Generation (RAG) system for intelligent PDF-based question answering.
+
+Tech:
+Python • LangChain • Ollama • Streamlit
+
+Highlights:
+
+* Multi-document retrieval
+* Context-aware responses
+* Automated summarization
+* Real-time querying
+
+---
+
+### 🩺 Women's Health & Healthcare Access Analysis
+
+Interactive dashboard analyzing women's healthcare accessibility and identifying high-risk zones.
+
+Tech:
+Python • Pandas • Folium • Scikit-Learn
+
+Highlights:
+
+* 82% prediction accuracy
+* Geographic visualization
+* Data-driven insights
+
+---
+
+### 🚁 Drone-Based Telecom Tower Inspection
+
+Research project completed during internship at NEC India.
+
+Tech:
+Python • OpenCV • Photogrammetry
+
+Highlights:
+
+* Anomaly detection
+* Tilt-angle estimation
+* Reduced inspection effort by 30%
+
+---
+
+## 💼 Experience
+
+### Deloitte
+
+Technology & Transformation Intern
+
+* Building interactive web experiences using Three.js and WebGL
+* Developing business-focused digital solutions
+* Leveraging AI tools to accelerate delivery
+* Working in agile consulting environments
+
+### NEC India
+
+Research Trainee
+
+* Drone-based telecom tower inspection
+* Computer vision and photogrammetry
+* Automated anomaly detection
+
+---
+
+## 🏆 Achievements
+
+🥇 Academic Topper – SRM IST
+
+👩‍💻 President, FemCodes Community (540+ members)
+
+📜 Deloitte AI Generalist Level 1
+
+📜 Google Advanced Data Analytics
+
+📜 NPTEL Python for Data Science
+
+---
+
+## 🤝 Let's Connect
+
+📧 [melbasuyambu2003@gmail.com](mailto:melbasuyambu2003@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/melba-suyambu/
+
+🌐 Portfolio: https://melba-interactive-resume-lpmk.vercel.app/
+
+🐙 GitHub: https://github.com/MelbaSuyambu
+
+---
+
+> “Technology creates value when it solves real problems.”
